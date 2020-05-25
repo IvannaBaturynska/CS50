@@ -1,0 +1,14 @@
+Promt user for height
+Look at height
+If height is equal to 1
+    print pyramid
+Else if height is larger than 1
+    save the height
+    create left-aligned pyramid
+    create right-aligned pyramid with hashes prefixed with dots
+    clean dots
+    print right-aligned pyramid
+Else
+    go back to line 1
+
+
